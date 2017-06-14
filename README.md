@@ -1,0 +1,1 @@
+Simple CRUD application in NodeJS and React. Using bookshelf ORM and Knex Query Builder to interact with POSTGRE SQL. 
